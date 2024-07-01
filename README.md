@@ -15,4 +15,4 @@ and ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=
 
 [![Linkedin Badge](https://img.shields.io/badge/-biancamisko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancamisko/)](https://www.linkedin.com/in/biancamisko/)
 
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:biancamisko@gmail.com)](biancamisko@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:biancamisko@gmail.com)
