@@ -14,5 +14,3 @@ and ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=
 ### Contact me 💬 
 
 [![Linkedin Badge](https://img.shields.io/badge/-biancamisko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancamisko/)](https://www.linkedin.com/in/biancamisko/)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:biancamisko@gmail.com)
