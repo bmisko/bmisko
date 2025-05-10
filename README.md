@@ -50,7 +50,7 @@
   - **AI-900** Azure AI (2025)
 - **Lean Six Sigma Green Belt** (2025, EDTI)
 - **PL-300 Microsoft Power BI Data Analyst Associate** (2023)
-- **SQL** (2019, Impacta) - Certified
+- **SQL** (2019, Impacta)
 
 ---
 
