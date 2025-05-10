@@ -59,7 +59,7 @@
 - **Speaker**: People Analytics Conference at Blueprintt and BCN Treinamentos events (2019)
 - **Awarded Best Undergraduate Thesis** in Accounting Education and Research (2017, USP)
 - **Published Research**: *"Universo Contábil"* Journal (2017)
-- **FEA Social Co-founder**, a student-led organization, that provides closer connections between FEA university and social impact organizations (NGOs and 2.5 sector)
+- **FEA Social Co-founder**, a student-led organization, that provides closer connections between FEA university and social impact organizations (2014)
 
 
 
