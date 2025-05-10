@@ -3,8 +3,8 @@
  ### Skills 🛠️
 - **Languages**: SQL, DAX, M  
 - **Data Analysis & BI**: Power BI, Power Query, Excel  
-- **People Analytics**: HRIS, Employee Journey Analytics, Workforce Metrics  
 - **Methodologies**: Scrum, Lean Six Sigma  
+- **People Analytics**: HRIS, Employee Journey Analytics, Workforce Metrics 
 - **Business Acumen**: HR Processes, Budgeting, Compensation, Process Improvement  
 - **ERPs & Platforms**: Workday, SAP HCM, JIRA  
 
@@ -12,7 +12,7 @@
 
 ### Currently Learning 📚
 - Python (Data Analysis & Modeling)
-- Azure Cloud and Fabric (Data Solutions)
+- Azure Cloud and MS Fabric
   
 ---
 
@@ -44,7 +44,6 @@
 ---
 
 ### Certifications 📜
-- **DataCamp** - Python for Data Analysis Career Track (In progress)
 - **Microsoft Fundamentals**: 
   - **PL-900** Power Platform (2025)
   - **DP-900** Azure Data (2025)
