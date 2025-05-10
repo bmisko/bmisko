@@ -58,8 +58,9 @@
 - **Volunteering**: Turtle marine preservation in Costa Rica (NGO CIRENAS, 2022)
 - **Speaker**: People Analytics Conference at Blueprintt and BCN Treinamentos events (2019)
 - **Awarded Best Undergraduate Thesis** in Accounting Education and Research (2017, USP)
-- **FEA Social Co-founder**, a student-led organization, that provides closer connections between FEA university and social impact organizations.
-- **Published Research**: *"Universo Contábil"* Journal (A2 CAPES)  
+- **Published Research**: *"Universo Contábil"* Journal (2017)
+- **FEA Social Co-founder**, a student-led organization, that provides closer connections between FEA university and social impact organizations (NGOs and 2.5 sector)
+
 
 
 More information in my [LinkedIn](https://www.linkedin.com/in/biancamisko/) 🚀
