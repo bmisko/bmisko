@@ -1,4 +1,5 @@
-## Hi, my name is Bianca 👋 I'm a Data Analyst, focused on efficiency, structure, and transforming complexity into actionable insights.
+## Hello, I’m Bianca 👋  
+*Bringing business value through structure and efficiency in data.*
 
  ### Skills 🛠️
 - **Languages**: SQL, DAX, M  
@@ -45,11 +46,13 @@
 
 ### Certifications 📜
 - **Microsoft Fundamentals**: 
+  - **AZ 900** Azure Cloud (2025)
   - **PL-900** Power Platform (2025)
   - **DP-900** Azure Data (2025)
   - **AI-900** Azure AI (2025)
 - **Lean Six Sigma Green Belt** (2025, EDTI)
-- **PL-300 Microsoft Power BI Data Analyst Associate** (2023)
+- **PL-300 Microsoft Power BI Data Analyst Associate** (2023, Microsoft)
+- **Scrum Foundation Professional Certificate SFPC** (2023, Certiprof)
 - **SQL** (2019, Impacta)
 
 ---
