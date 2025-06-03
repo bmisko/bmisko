@@ -1,4 +1,4 @@
-## Hi, my name is Bianca 👋 I'm a Data Analyst, driven by efficiency, curiosity and learning
+## Hi, my name is Bianca 👋 I'm a Data Analyst, focused on efficiency, structure, and transforming complexity into actionable insights.
 
  ### Skills 🛠️
 - **Languages**: SQL, DAX, M  
