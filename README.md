@@ -2,18 +2,18 @@
 *Bringing business value through structure and efficiency in data.*
 
  ### Skills 🛠️
-- **Languages**: SQL, DAX, M  
+- **Languages**: SQL, DAX, M, Python (pandas, numpy, matplotlib)  
 - **Data Analysis & BI**: Power BI, Power Query, Excel  
 - **Methodologies**: Scrum, Lean Six Sigma  
 - **People Analytics**: HRIS, Employee Journey Analytics, Workforce Metrics 
-- **Business Acumen**: HR Processes, Budgeting, Compensation, Process Improvement  
-- **ERPs & Platforms**: Workday, SAP HCM, JIRA  
+- **Business Acumen**: HR Processes, Workforce Planning, Compensation, FP&A, Process Improvement  
+- **ERPs & Platforms**: Workday, SAP HCM, JIRA, Trello, VScode  
 
 ---
 
 ### Currently Learning 📚
 - Python (Data Analysis & Modeling)
-- Azure Cloud and MS Fabric
+- Databricks
   
 ---
 
@@ -27,7 +27,8 @@
 ### Work Experience 🏢 
 | Job Position                          | Company               | Work Period        | Projects |
 | ------------------------------------- | --------------------- | ------------------ | ----------------- |
-| **People Data Architecture Consultant (Global)** | **Avanade** | Oct 2024 – Present | Global HR data ecosystem quality; Workday Learning migration |
+| **Senior Analytics Engineer** | **Artefact** | Jun 2024 - present | US Delivery Center and internal iniciatives |
+| **People Data Architecture Consultant (Global)** | **Avanade** | Oct 2024 – Jun 2024 | Global HR data ecosystem quality; Workday Learning migration |
 | **People Analytics Specialist**        | **Auren Energia**     | Mar 2023 – Oct 2024 | HR dashboards; People Analytics strategy; Data Ingestion squad. |
 | **People Analytics Coordinator**       | **Intercement**       | Jun 2021 – Nov 2022 | HR Tech Solution; Analytics dashboards; Workforce Planning. |
 | **Trainnee, Senior Analyst & Supervisor** | **Odontoprev**  | Sep 2017 – May 2021 | People Analytics, HR Tech Solution, Budgeting, Compensation Processes |
