@@ -27,8 +27,8 @@
 ### Work Experience 🏢 
 | Job Position                          | Company               | Work Period        | Projects |
 | ------------------------------------- | --------------------- | ------------------ | ----------------- |
-| **Senior Analytics Engineer** | **Artefact** | Jun 2024 - present | US Delivery Center and internal iniciatives |
-| **People Data Architecture Consultant (Global)** | **Avanade** | Oct 2024 – Jun 2024 | Global HR data ecosystem quality; Workday Learning migration |
+| **Senior Analytics Engineer** | **Artefact** | Jun 2025 - present | US Delivery Center and internal iniciatives |
+| **People Data Architecture Consultant (Global)** | **Avanade** | Oct 2024 – Jun 2025 | Global HR data ecosystem quality; Workday Learning migration |
 | **People Analytics Specialist**        | **Auren Energia**     | Mar 2023 – Oct 2024 | HR dashboards; People Analytics strategy; Data Ingestion squad. |
 | **People Analytics Coordinator**       | **Intercement**       | Jun 2021 – Nov 2022 | HR Tech Solution; Analytics dashboards; Workforce Planning. |
 | **Trainnee, Senior Analyst & Supervisor** | **Odontoprev**  | Sep 2017 – May 2021 | People Analytics, HR Tech Solution, Budgeting, Compensation Processes |
