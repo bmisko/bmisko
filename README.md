@@ -2,7 +2,7 @@
 *Bringing business value through structure and efficiency in data.*
 
  ### Skills 🛠️
-- **Languages**: SQL, DAX, M, Python (pandas, numpy, matplotlib)  
+- **Languages**: SQL, DAX, M, Python (pandas, numpy)  
 - **Data Analysis & BI**: Power BI, Power Query, Excel  
 - **Methodologies**: Scrum, Lean Six Sigma  
 - **People Analytics**: HRIS, Employee Journey Analytics, Workforce Metrics 
