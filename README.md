@@ -1,5 +1,5 @@
 ## Hello, I’m Bianca 👋  
-*Bringing business value through structure and efficiency in data.*
+*Data professional bridging BI and AI: structured analytics, reliable pipelines, and LLM-as-a-Judge frameworks.*
 
  ### Skills 🛠️
 - **Languages**: SQL, Python, M, DAX
