@@ -4,7 +4,7 @@
  ### Skills 🛠️
 - **Languages**: SQL, Python, M, DAX
 - **AI/LLM Engineering**: LLM-as-a-Judge Framework, ABSA (Aspect-Based Sentiment Analysis), Gemini API, RAGAS
-- **Data Analysis & BI**: Power BI, Power Query, Excel, Zenlytic
+- **Data Analysis & BI**: Power BI, Power Query, Excel, Augmented BI, BI Agents (Zenlytic)
 - **Data Engineering**: ETL Pipeline Design, Data Quality Validation (Pydantic schemas), Google BigQuery, Google Dataform, Cloud Storage
 - **Methodologies**: Scrum, Lean Six Sigma  
 - **People Analytics**: HRIS, Employee Journey Analytics, Workforce Metrics 
